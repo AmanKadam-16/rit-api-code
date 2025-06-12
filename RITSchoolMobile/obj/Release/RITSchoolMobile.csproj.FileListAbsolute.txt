@@ -1,0 +1,582 @@
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll.config
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe.config
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.rsp
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe.config
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.rsp
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Managed.Core.targets
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.AppContext.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Collections.Immutable.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Console.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Globalization.Calendars.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Http.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Sockets.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Reflection.Metadata.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.ValueTuple.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XmlDocument.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe.config
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.rsp
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe.config
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Web.Infrastructure.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.WebApi.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\WebGrease.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.Common.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Threading.Tasks.Extensions.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.ObjectBuilder2.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll.config
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll.config
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll.config
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CoreCompileInputs.cache
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CopyComplete
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.pdb
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Cors.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.dll
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.xml
+E:\31_01_2022_RITSchoolAPIMobile\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.AssemblyReference.cache
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll.config
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe.config
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.rsp
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe.config
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.rsp
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.AppContext.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Collections.Immutable.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Console.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Globalization.Calendars.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Http.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Sockets.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Reflection.Metadata.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.ValueTuple.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe.config
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.rsp
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe.config
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Web.Infrastructure.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Cors.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.WebApi.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\WebGrease.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.Common.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Threading.Tasks.Extensions.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.ObjectBuilder2.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll.config
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll.config
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll.config
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.pdb
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.AssemblyReference.cache
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CoreCompileInputs.cache
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CopyComplete
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.dll
+E:\AspxSchoolProject\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll.config
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe.config
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.rsp
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe.config
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.rsp
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.AppContext.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Collections.Immutable.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Console.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Globalization.Calendars.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Http.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Sockets.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.ValueTuple.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe.config
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.rsp
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe.config
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Web.Infrastructure.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Cors.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.WebApi.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\WebGrease.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.Common.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Threading.Tasks.Extensions.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.ObjectBuilder2.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll.config
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll.config
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll.config
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.pdb
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.AssemblyReference.cache
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CoreCompileInputs.cache
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CopyComplete
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.dll
+D:\Aadi Tech\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll.config
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe.config
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.rsp
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe.config
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.rsp
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.AppContext.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Console.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Globalization.Calendars.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Http.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Sockets.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.ValueTuple.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe.config
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.rsp
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Cors.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.WebApi.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\WebGrease.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.Common.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Threading.Tasks.Extensions.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll.config
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll.config
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll.config
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.pdb
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.AssemblyReference.cache
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CoreCompileInputs.cache
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CopyComplete
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.dll
+C:\Project\School\API\Latest solution 12_4_22\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll.config
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RITSchoolMobile.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.exe.config
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csc.rsp
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.exe.config
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\csi.rsp
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Managed.Core.targets
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.AppContext.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Collections.Immutable.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Console.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Globalization.Calendars.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Http.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Net.Sockets.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Reflection.Metadata.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.ValueTuple.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XmlDocument.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.exe.config
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\vbc.rsp
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\roslyn\VBCSCompiler.exe.config
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Web.Infrastructure.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Cors.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.WebApi.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\WebGrease.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\CrystalDecisions.Shared.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.Common.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Threading.Tasks.Extensions.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.ObjectBuilder2.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\RIT.PushNotificationDAL.dll.config
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileEntities.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileInterface.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\SchoolMobileRepository.dll.config
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Utility.dll.config
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.Cors.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Newtonsoft.Json.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Net.Http.Formatting.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Helpers.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Http.WebHost.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Mvc.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Optimization.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.Razor.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Deployment.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\System.Web.WebPages.Razor.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Abstractions.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Unity.Container.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Antlr3.Runtime.pdb
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.AssemblyReference.cache
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CoreCompileInputs.cache
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.csproj.CopyComplete
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.dll
+E:\NewRITSchoolAPI_17May2022\RITeSchoolNewAPI (2)\RITeSchoolNewAPI\RITSchoolMobile\obj\Release\RITSchoolMobile.pdb

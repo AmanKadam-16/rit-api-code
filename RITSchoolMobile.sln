@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RITSchoolMobile", "RITSchoolMobile\RITSchoolMobile.csproj", "{83455919-C818-4EF9-B1D8-ADFCCB0686B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMobileRepository", "SchoolMobileRepository\SchoolMobileRepository.csproj", "{5381E3A1-2FEC-424A-88AE-D8E6AE7D96B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolMobileInterface", "SchoolMobileInterface\SchoolMobileInterface.csproj", "{B5E40222-B544-470F-9D2C-9D709A7FA657}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolMobileEntities", "SchoolMobileEntities\SchoolMobileEntities.csproj", "{E10A614B-DF32-48CB-871F-97D2306507E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{EF10E0BC-F164-4E8D-BFD4-8A8DF207841E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIT.PushNotificationDAL", "RIT.PushNotificationDAL\RIT.PushNotificationDAL.csproj", "{1039861F-5258-4501-A0F7-D8D901B1CE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83455919-C818-4EF9-B1D8-ADFCCB0686B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83455919-C818-4EF9-B1D8-ADFCCB0686B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83455919-C818-4EF9-B1D8-ADFCCB0686B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83455919-C818-4EF9-B1D8-ADFCCB0686B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5381E3A1-2FEC-424A-88AE-D8E6AE7D96B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5381E3A1-2FEC-424A-88AE-D8E6AE7D96B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5381E3A1-2FEC-424A-88AE-D8E6AE7D96B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5381E3A1-2FEC-424A-88AE-D8E6AE7D96B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E40222-B544-470F-9D2C-9D709A7FA657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E40222-B544-470F-9D2C-9D709A7FA657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E40222-B544-470F-9D2C-9D709A7FA657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E40222-B544-470F-9D2C-9D709A7FA657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10A614B-DF32-48CB-871F-97D2306507E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10A614B-DF32-48CB-871F-97D2306507E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10A614B-DF32-48CB-871F-97D2306507E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10A614B-DF32-48CB-871F-97D2306507E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF10E0BC-F164-4E8D-BFD4-8A8DF207841E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF10E0BC-F164-4E8D-BFD4-8A8DF207841E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF10E0BC-F164-4E8D-BFD4-8A8DF207841E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF10E0BC-F164-4E8D-BFD4-8A8DF207841E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1039861F-5258-4501-A0F7-D8D901B1CE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1039861F-5258-4501-A0F7-D8D901B1CE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1039861F-5258-4501-A0F7-D8D901B1CE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1039861F-5258-4501-A0F7-D8D901B1CE32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0079B59A-1683-4508-BB67-DFCB3237EAE9}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\EnterpriseLibrary.Data.5.0.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal
